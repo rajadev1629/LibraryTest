@@ -36,6 +36,5 @@ proguard/
 gen-external-apklibs
 
 /.classpath
-AndroidManifest.xml
 /res/layout/*
 
